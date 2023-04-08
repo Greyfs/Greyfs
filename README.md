@@ -41,15 +41,22 @@
 ### To be honest 
 - 👨‍💻 I am Not a Programmer
 - ✅ I am currently learning JavaScript
+- 📌 Creator content
+- ✍️ Blogger
 - 💰 Donate For Me [`Saweria`](https://saweria.co/Greyx) 
 
 <p align="center">
 <a href="https://www.instagram.com/norriii_7"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/message/NWL4BNB6JPN3H1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <a href="https://t.me/nazedev"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
+  <a href="https://wa.me/message/UK54R4DDERJCG1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<br>
   <a href="https://youtube.com/@novxler9753"><img src="https://img.shields.io/badge/YouTube-Grey -ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/@novxler9753" /><br>
   <a href="https://github.com/greyfs"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-  <a href="https://m.youtube.com/@novxler9753"> <br>
+  <a href="https://m.youtube.com/@novxler9753">
   <a name=greyfs&label=VIEWS&style=flat-square&color=orange" />
 </p>
 
+
+
+### Join my WhatsApp group
+
+  <a href="https://chat.whatsapp.com/GMKCDy07dzX6o2T040NpAd"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
