@@ -45,6 +45,8 @@
 - ✍️ Blogger
 - 💰 Donate For Me [`Saweria`](https://saweria.co/Greyx) 
 
+![Bukan siapa siapa bang. Cuma orang yang pengen terlihat dihadapan orang lain](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
+
 <p align="center">
 <a href="https://www.instagram.com/norriii_7"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://wa.me/message/UK54R4DDERJCG1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
