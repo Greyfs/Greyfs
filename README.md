@@ -1,7 +1,7 @@
 <div align="center">
 <a href="https://youtube.com/c/Nazedev">
     <img
-        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=f70787&background=FF673200&center=true&vCenter=true&lines=Hi,+I+am+Greyfs;Welcome+to+my+github;And+please+SUBSCRIBE+my+channel"
+        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=FF0000&background=FF673200&center=true&vCenter=true&lines=Hi,+I+am+Greyfs;Welcome+to+my+github;And+please+SUBSCRIBE+my+channel"
             alt="Typing SVG"
         />
     </a>
