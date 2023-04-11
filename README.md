@@ -65,6 +65,19 @@
 - ✍️ Blogger
 - 💰 Donate For Me [`Saweria`](https://saweria.co/Greyx) 
 
+![gif](https://telegra.ph/file/1b4d68426eca1d6735003.gif)
+
+
+
+<div align="center">
+<a href="https://youtube.com/@novxler9753">
+    <img
+        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=00FF00&background=FF673200&center=true&vCenter=true&lines=Gabut+amat+😅"
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+</div>
 
 
 <p align="center">
@@ -76,6 +89,20 @@
   <a href="https://m.youtube.com/@novxler9753">
   <a name=greyfs&label=VIEWS&style=flat-square&color=orange" />
 </p>
+              
+        )  _`-.                 
+       .  : `. .                
+       : _   '  \               
+       ; *` _.   `*-._          
+       `-.-'          `-.       
+         ;       `       `.     
+         :.       .        \    
+         . \  .   :   .-'   .   
+         '  `+.;  ;  '      :   
+         :  '  |    ;       ;-. 
+         ; '   : :`-:     _.`* ;
+        .*' /  .*' ; .*`- +'  `*' 
+
 
 
 
@@ -93,4 +120,17 @@
     </a>
 </p>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
