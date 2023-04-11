@@ -8,7 +8,10 @@
 </p>
 </div>
 
-<img align="center" fit="fill" alt="GIF" src="https://media3.giphy.com/media/3ohzdMfilFANKK0dqw/giphy.gif?cid=6c09b9527a485d42636198909197bce63274cb88f0ed28ee&rid=giphy.gif&ct=g" />
+<p align="center">
+  <img align="center" fit="fill" alt="GIF" src="https://media3.giphy.com/media/3ohzdMfilFANKK0dqw/giphy.gif?cid=6c09b9527a485d42636198909197bce63274cb88f0ed28ee&rid=giphy.gif&ct=g" />
+</p>
+
 
 <h4 align="center">Visitor's Count :</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{greyfs}/count.svg" alt="greyfs :: Visitor's Count" /></p>
@@ -58,6 +61,8 @@
 </p>
 </div>
 
+
+
 ### To be honest 
 - 👨‍💻 I am Not a Programmer
 - ✅ I am currently learning JavaScript
@@ -65,14 +70,16 @@
 - ✍️ Blogger
 - 💰 Donate For Me [`Saweria`](https://saweria.co/Greyx) 
 
-![gif](https://telegra.ph/file/1b4d68426eca1d6735003.gif)
+<p align="center">
+  <img src="https://telegra.ph/file/0642b0ff6ec3fa0a7ad41.png" alt="THIS README IS SUPPORTED BY AI">
+</p>
 
 
 
 <div align="center">
 <a href="https://youtube.com/@novxler9753">
     <img
-        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=00FF00&background=FF673200&center=true&vCenter=true&lines=Gabut+amat+😅"
+        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=FF0000&background=FF673200&center=true&vCenter=true&lines=THIS+README+WAS+CREATED+WITH+AI"
             alt="Typing SVG"
         />
     </a>
