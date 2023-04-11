@@ -18,10 +18,18 @@
   <img align="center" fit="fill" alt="GIF" src="https://media3.giphy.com/media/3ohzdMfilFANKK0dqw/giphy.gif?cid=6c09b9527a485d42636198909197bce63274cb88f0ed28ee&rid=giphy.gif&ct=g" />
 </p>
 
+<div align="center">
+<a href="https://youtube.com/@novxler9753">
+    <img
+        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=00FF00&background=FF673200&center=true&vCenter=true&lines=👆👆This+is+my+wife🤭"
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+</div>
 
 <h4 align="center">Visitor's Count :</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{greyfs}/count.svg" alt="greyfs :: Visitor's Count" /></p>
-<p align="center"><img src="https://count.getloli.com/get/@greyfs-github-readme?theme=rule34" /></p>
   
 ### Github Stats🧐
 
