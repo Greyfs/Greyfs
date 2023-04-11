@@ -1,7 +1,7 @@
 <div align="center">
-<a href="https://youtube.com/c/Nazedev">
+<a href="https://youtube.com/@novxler9753">
     <img
-        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=FF0000&background=FF673200&center=true&vCenter=true&lines=Hi,+I+am+Greyfs;Welcome+to+my+github;And+please+SUBSCRIBE+my+channel"
+        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=FF0000&background=FF673200&center=true&vCenter=true&lines=Hi,+I+am+Grey;Welcome+to+my+github;And+please+SUBSCRIBE+my+channel"
             alt="Typing SVG"
         />
     </a>
@@ -15,6 +15,16 @@
 <p align="center"><img src="https://count.getloli.com/get/@greyfs-github-readme?theme=rule34" /></p>
   
 ### Github Stats🧐
+
+<div align="center">
+<a href="https://youtube.com/@novxler9753">
+    <img
+        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=00FF00&background=FF673200&center=true&vCenter=true&lines=info+github+gua+bang"
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+</div>
 
 <p align="center"><a href="https://github.com/greyfs"><img src="https://github-readme-stats.vercel.app/api?username=greyfs&show_icons=true&theme=chartreuse-dark"></a></p>
 <p align="center"><a href="https://github.com/greyfs"><img src="https://streak-stats.demolab.com/?user=greyfs&theme=chartreuse-dark"></a></p>
@@ -37,6 +47,16 @@
 <p align="center"><a href="https://github.com/greyfs"><img src="https://metrics.lecoq.io/greyfs?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta"></a></p>
 
 </details> 
+
+<div align="center">
+<a href="https://youtube.com/@novxler9753">
+    <img
+        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=00FF00&background=FF673200&center=true&vCenter=true&lines=Scrolll+👇👇👇"
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+</div>
 
 ### To be honest 
 - 👨‍💻 I am Not a Programmer
@@ -62,3 +82,15 @@
 ### Join my WhatsApp group
 
   <a href="https://chat.whatsapp.com/GMKCDy07dzX6o2T040NpAd"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+
+<div align="center">
+<a href="https://youtube.com/@novxler9753">
+    <img
+        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=00FF00&background=FF673200&center=true&vCenter=true&lines=Gabut+amat+😅"
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+</div>
+
