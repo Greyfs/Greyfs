@@ -1,3 +1,9 @@
+<p align="center">
+
+  <img src="https://telegra.ph/file/90ef15582681225e1d211.png" alt="THIS README IS SUPPORTED BY AI">
+
+</p>
+
 <div align="center">
 <a href="https://youtube.com/@novxler9753">
     <img
