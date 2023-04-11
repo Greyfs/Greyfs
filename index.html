@@ -1,36 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Teks Berjalan dengan Efek Warna RGB</title>
-    <style>
-      /* Ganti warna teks dengan efek RGB */
-      .rainbow-text {
-        background: linear-gradient(to right, 
-          rgb(255, 0, 0), 
-          rgb(255, 127, 0), 
-          rgb(255, 255, 0), 
-          rgb(0, 255, 0), 
-          rgb(0, 0, 255), 
-          rgb(75, 0, 130), 
-          rgb(148, 0, 211));
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        animation: rainbow 5s linear infinite;
-      }
-      /* Animasi warna teks berjalan */
-      @keyframes rainbow {
-        0% {
-          background-position: 0% 50%;
-        }
-        100% {
-          background-position: 100% 50%;
-        }
-      }
-    </style>
-  </head>
-  <body>
-    <marquee behavior="scroll" direction="left">
-      <span class="rainbow-text">Ini adalah teks berjalan dengan efek warna RGB</span>
-    </marquee>
-  </body>
-</html>
+<div style="background-color: black; padding: 20px;">
+    <h1 style="text-align: center; color: rgb(255, 0, 0);">Selamat datang di GitHub saya!</h1>
+    <marquee behavior="scroll" direction="left" style="color: rgb(255, 255, 255); font-size: 20px;">Terima kasih telah mengunjungi profil saya. Jangan lupa untuk follow!</marquee>
+</div>
